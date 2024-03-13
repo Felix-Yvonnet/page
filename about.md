@@ -29,6 +29,7 @@ The code show a formula as follows
 $$
 {\color{red} x} + {\color{blue} y}.
 $$
+
 Or render.githubusercontent.com/render/math?math=\Huge%20Q(H)\approx\sqrt{\frac{\pi}{2}H}
 
 You can find the source code for Minima at GitHub:
