@@ -9,8 +9,6 @@ layout: home
 ---
 
 Test, test, I'm testing
-<html lang="en">
 
-  {%- include test.html -%}
+{%- include test.html -%}
 
-</html>
