@@ -7,3 +7,13 @@
 #
 layout: home
 ---
+
+Test, test, I'm testing
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+  {%- include test.html -%}
+
+</html>
