@@ -16,7 +16,19 @@ Or **The Cauchy-Schwarz Inequality**
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
+**Color eqns**
 
+Must enclose the part you want to color in braces `{...}`, otherwise everything behind the `\color` will be colored.
+
+```markdown
+{\color{red} x} + {\color{blue} y}
+```
+
+The code show a formula as follows
+
+$$
+{\color{red} x} + {\color{blue} y}.
+$$
 Or render.githubusercontent.com/render/math?math=\Huge%20Q(H)\approx\sqrt{\frac{\pi}{2}H}
 
 You can find the source code for Minima at GitHub:
